@@ -1,4 +1,6 @@
 /*
+* Date: 19/11/25
+* Problem:
 * Armstrong number is a positive which is the sum of its own digits,
 * each raised to the power of the number of digits.
 * The result is equal to its own digits.

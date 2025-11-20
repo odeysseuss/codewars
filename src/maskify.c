@@ -1,4 +1,6 @@
 /*
+* Date: 19/11/25
+* Problem:
 * Takes a string as input and mask all the chars into # other than the last 4 chars.
 * Write it into masked
 * Ex: "Skippy" --> "##ippy"
